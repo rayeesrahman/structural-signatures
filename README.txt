@@ -1,3 +1,9 @@
+
+#Computation of Protein Structural Signatures from Differential Gene Expression Data 
+
+For More information, please read Standard Operating Protocol (SOP) pdf
+
+
 Working Directory: /mnt/c/Users/rayees/Desktop/dev-structural-signatures/structural-signatures 
 Usage:
 	 -d Dataset 
