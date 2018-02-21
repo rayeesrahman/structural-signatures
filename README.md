@@ -1,5 +1,5 @@
 
-#Computation of Protein Structural Signatures from Differential Gene Expression Data 
+# Computation of Protein Structural Signatures from Differential Gene Expression Data 
 
 For More information, please read Standard Operating Protocol (SOP) pdf
 
